@@ -1,4 +1,3 @@
-#Adjust info for more experimentation and originality. Maybe some extra things should happen when evaluated to True?
 def linear_search(values, search_for):
     search_at = 0
     search_res = False
